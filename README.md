@@ -1,2 +1,17 @@
-# sarasavi-library-management-system
-A desktop-based Library Management System developed using C# and Windows Forms. The system helps manage books, members, book borrowing, returns, fines, and library records efficiently.
+# Sarasavi Library Management System
+
+Sarasavi Library Management System is a desktop application developed using C# and Windows Forms to automate library operations. The system allows librarians to manage books, members, book borrowing, returns, fines, and generate reports efficiently.
+
+## Features
+- Book Management
+- Member Management
+- Book Borrowing
+- Book Returns
+- Fine Calculation
+- Search Books and Members
+- User-Friendly Interface
+
+## Technologies Used
+- C#
+- .NET Framework
+- Windows Forms
